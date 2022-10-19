@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Edison Lim.
-## I am a year 2 student in Temasek Polytechnic studying Information Technology.
+## Hi there 👋 I'm Edison Lim.
+### I am a year 2 student in Temasek Polytechnic studying Information Technology.
 
 <!--
 **edisonlimllk/edisonlimllk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
